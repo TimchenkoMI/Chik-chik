@@ -23,7 +23,8 @@
 ```bash
 pip install PyQt5 openpyxl qdarkstyle psutil pyinstaller
 pyinstaller --name="Chik-chik" --onefile --windowed --icon="chikchik.ico" main.py
-
+```
+# Инструкция
 ## 🧰 1. Подготовка исходного Excel-файла
 Прежде чем запускать Chik-chik — подготовь свой Excel-файл по правилам:
 
